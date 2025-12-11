@@ -1,5 +1,5 @@
 1. Política de Privacidad de MetricFit (Requisito Obligatorio de Apple)
-Esta Política de Privacidad describe cómo [Nombre de tu Compañía/Desarrollador] recopila, utiliza y protege su información personal al utilizar nuestra aplicación móvil MetricFit. El objetivo es proporcionar seguimiento fitness personalizado.
+Esta Política de Privacidad describe cómo Samuel Delgado recopila, utiliza y protege su información personal al utilizar nuestra aplicación móvil MetricFit. El objetivo es proporcionar seguimiento fitness personalizado.
 
 1.1 Información Recopilada
 Recopilamos la siguiente información para proporcionar las funcionalidades principales del servicio:
