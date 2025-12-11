@@ -1,7 +1,7 @@
 # Metricfit_url_soporte
 Metricfit-privacy-support
 Metricfit – Soporte Técnico y Atención al Usuario
-Bienvenido al centro de soporte de MyMentorIA, tu asistente inteligente para el estudio.
+Bienvenido al centro de soporte de Metricfit, tu asistente inteligente para el estudio.
 Nuestro objetivo es ayudarte a resolver cualquier duda o problema que puedas tener con la app de manera rápida y efectiva.
 
 1. Alcance del soporte
